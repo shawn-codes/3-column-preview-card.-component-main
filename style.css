@@ -12,7 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: hsl(0, 0%, 95%);
+  /* background-color: hsl(0, 0%, 95%); ?*/
 }
 
 .container {
@@ -21,7 +21,7 @@ body {
   display: flex;
   max-width: 57.5rem;
   min-height: 31.25rem;
-  flex-direction: row;
+  /* flex-direction: row; */
 }
 
 .cars {
